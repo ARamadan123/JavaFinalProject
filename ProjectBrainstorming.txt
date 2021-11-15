@@ -1,0 +1,30 @@
+Brainstorming ideas:
+
+User.java is the class responsible for the login system and keeping track of all user info
+User.java gets creds from UserLoginInfo.txt
+
+Course class planning:
+
+Course class Variables: 
+--Name of course(String)
+--Credits(int)
+--grade(String(A+,A,A-,B,C,D,F))
+--Description??(String to be displayed when course is clicked in GUI)
+
+Class Methods:
+--AddCourse()--Will create a course(will be head if first course if not node)--Will give option to fill fields
+--RemoveCourse()--Use linked list skills to remove node
+--EditCourse()--will edit course
+--AssignUser()--will user object to the course object(may be done in another class??)
+
+
+Suggestion:
+keep track of courses using Linked list data structure
+ _____________
+|             |
+|             |
+|             |
+|             |
+|_____________|
+
+

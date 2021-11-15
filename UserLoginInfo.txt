@@ -1,0 +1,5 @@
+testUser,01234
+Ramadan,myPassword
+IUPUI,CSCI23423
+hello,mate
+USERNAME,PASSWORD
